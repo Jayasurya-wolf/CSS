@@ -1,0 +1,60 @@
+div{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 10px;   
+}
+input{
+   
+    display: block;
+    width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+ul{
+    background-color: black;
+   position: fixed;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
+li{
+    color: white;
+    display: inline-block;
+    margin-left: 20px;
+}
+li:hover{
+    color: grey;
+    cursor: pointer;
+}
+button{
+    margin-top: 20px;
+   cursor: pointer; 
+}
+.fa{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 0;
+}
+p{
+    display: inline;
+    margin-top: 10px;
+    color: white;
+}
+a{
+    margin-left: 4px;
+}
+
+.fan{
+    color: white;
+    height: 200px;
+    background-color: rgb(32, 29, 29);
+
+
+}
+h4{
+    margin-right: 80%;
+    padding: 5px;
+
+
+}
